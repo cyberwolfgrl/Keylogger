@@ -20,8 +20,8 @@ The project consists of a simple keylogger and the steps for using it.
 <br/>
 <h3>Before starting make sure you have downloaded pylance and keyboard.</h3>
 
-<b>py -m pip install pylance</b>
-<b>py -m pip install keyboard</b>
+- <b>py -m pip install pylance</b>
+- <b>py -m pip install keyboard</b>
 
 <p align="center">
 Launch the code in Visual Studio Code or Powershell: <br/>
