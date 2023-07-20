@@ -20,7 +20,7 @@ The project consists of a simple keylogger and the steps for using it.
 
 <p align="center">
 Launch the utility: <br/>
-<img src="C:\Users\Holly Dowdle\Pictures\key1.png" height="80%" width="80%" alt="Execution of code"/>
+<img src="https://i.imgur.com/OxKjCCQ.png" height="80%" width="80%" alt="Execution of code"/>
 <br />
 <br />
 Select the disk:  <br/>
