@@ -17,8 +17,9 @@ The project consists of a simple keylogger and the steps for using it.
 - <b>Windows 11</b> (21H2)
 
 <h2>Program walk-through:</h2>
+<br/>
+<h3>Before starting make sure you have downloaded pylance and keyboard.</h3>
 
-<h2>Before starting make sure you have downloaded pylance and keyboard.</h2>
 <b>py -m pip install pylance</b>
 <b>py -m pip install keyboard</b>
 
