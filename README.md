@@ -1,4 +1,3 @@
-# Keylogger
 <h1>Keylogger</h1>
 
 
@@ -11,40 +10,29 @@ The project consists of a simple keylogger and the steps for using it.
 
 - <b>Python</b> 
 - <b>pynput</b>
+- <b>Visual Studio Code</b>
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux VM</b> (21H2)
+- <b>Windows 11</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
+<h2>Before starting make sure you have downloaded pylance and keyboard.</h2>
+<b>py -m pip install pylance</b>
+<b>py -m pip install keyboard</b>
+
 <p align="center">
-Launch the utility: <br/>
+Launch the code in Visual Studio Code or Powershell: <br/>
 <img src="https://i.imgur.com/OxKjCCQ.png" height="80%" width="80%" alt="Execution of code"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Output to text file  <br/>
+<img src="https://i.imgur.com/onMMS6S.png" height="80%" width="80%" alt="Text File Example"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 
 <!--
